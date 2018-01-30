@@ -1,4 +1,2 @@
 this is for remote git repo
 changes made through local
-
-changes made in a separate branch
