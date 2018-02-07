@@ -1,9 +1,11 @@
 this is for remote git repo
 changes made through local
-<<<<<<< HEAD
+
 changes made in between
-=======
 
 changes made for a separate module
->>>>>>> sep-mod
+
 change 1 from local
+
+lets try a fetch
+
