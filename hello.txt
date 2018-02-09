@@ -3,4 +3,4 @@ remote git repo february
 
 remote git repository
 
-through a separate branch
+through a separate branching
