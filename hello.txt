@@ -1,1 +1,1 @@
-remote git repo
+remote git repository
